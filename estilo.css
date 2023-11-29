@@ -1,0 +1,56 @@
+body{
+    background-color: #eec5fc
+}
+
+h1{
+     
+}
+p{
+font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size:25px ;
+}
+        #capa{
+        
+        text-align: center;
+        height: 100vh ;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        background-image: url('mulher-de-desenho-animado-em-pe-no-lado-inferior-da-gangorra_23-2148403580.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+        }
+        
+        #projeto{
+            
+            font-size: 20px;
+            text-align: justify;
+        }
+        #projeto img{
+            float: left;
+            margin-right: 10px;
+
+        }
+    .metas img{ float: left ;
+     margin-right: 30px;
+    width: 80px; 
+height: 80px;
+}
+.metas{
+    margin-bottom: 60px;
+
+     }
+     button{
+        background-color: rgb(201, 240, 130); 
+     height: 35px;
+    border-radius: 4px;
+    color: rgb(180, 111, 180); 
+   width: 120px;
+    }
+    .container{
+        width: 700px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+    a{ text-decoration: none;}
